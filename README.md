@@ -1,6 +1,8 @@
 # Dark Mode and Light Mode Implementation
 
-![Project Preview](img/Screenshot 2023-08-12 225917.png)
+![Project Preview]![Screenshot 2023-08-12 225917](https://github.com/bahalahmad/light_dark_mode/assets/114356169/2408674e-072a-417d-a88f-5682bcb2c7db)
+![Screenshot 2023-08-12 230000](https://github.com/bahalahmad/light_dark_mode/assets/114356169/1a836acd-4a7d-4e38-afd7-22e899375a00)
+
 
 This repository demonstrates how to implement Dark Mode and Light Mode in a web project. Users can switch between two different color schemes for enhanced readability and a better user experience.
 
